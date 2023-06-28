@@ -51,6 +51,7 @@ function App() {
       <p>Conversão de imagem em texto. Extrair textos de imagens para automatizar o processamento de textos.</p>
       {loading ? <Spinner/> : <Button type='file' multiple={false} onChange={GetPicture} /> } 
       {visible && <Modal image={image} text={text} visible={setVisible}/>}
+      <span>Designed with 💜 by ManuelBento</span>
     </Container>
   )
 }

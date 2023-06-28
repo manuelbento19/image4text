@@ -14,6 +14,11 @@ export const Container = styled.section`
     text-align: center;
     font-size: .9rem;
   }
+  span{
+    position: fixed;
+    bottom: 9px;
+    font-size: 10px;
+  }
 `;
 
 export const LogoContainer = styled.div`
