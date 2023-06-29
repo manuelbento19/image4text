@@ -5,7 +5,7 @@
 
 ![Resultado final do projeto](./public/preview.png)
 
-<h4 align="center"><a href="https://todo-2023-manuelbento19.vercel.app/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://image4text.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ---
 
