@@ -2229,6 +2229,11 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+lucide-react@^0.349.0:
+  version "0.349.0"
+  resolved "https://registry.yarnpkg.com/lucide-react/-/lucide-react-0.349.0.tgz#c5ccc69103fa0b04d9df82ac0bb2bfb307aa320c"
+  integrity sha512-Sa+5bRi0RYcyOUU2ifTtNXNiHs87JvdE78DbSfcqWk7JmGsomnFnvzmAhyPjfaCZf3HJMAqHCJOMXGRbB89Q1g==
+
 make-dir@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
