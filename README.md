@@ -1,7 +1,7 @@
 <h1 align="center">
   📸📝<br>Image 4 Text
 </h1>
-`Conversão de imagem em texto. Extrair textos de imagens para automatizar o processamento de textos.`
+`Uma app para conversão de imagem em texto. A app pemite extrair textos de imagens para automatizar o processamento de textos.`
 
 ![Resultado final do projeto](./public/preview.png)
 
